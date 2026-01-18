@@ -1,0 +1,56 @@
+THIRD-PARTY SOFTWARE NOTICES AND INFORMATION
+
+This project incorporates components from the following third-party projects:
+
+================================================================================
+Apache HTTP Server - ApacheBench (ab)
+================================================================================
+
+This software includes ApacheBench (ab), which is part of the Apache HTTP Server 
+project.
+
+Project:    Apache HTTP Server
+Website:    https://httpd.apache.org/
+License:    Apache License 2.0
+Copyright:  The Apache Software Foundation
+
+ApacheBench is a tool for benchmarking the performance of HTTP servers. 
+It is included in this project as a binary component to provide load testing 
+functionality.
+
+The full text of the Apache License 2.0 can be found in:
+  LICENSES/Apache-2.0.txt
+
+-------------------------------------------------------------------------------
+
+NOTICE: This software bundles pre-compiled binaries of ApacheBench (ab) from 
+the Apache HTTP Server project. The binaries are located in the vendor/ab/ 
+directory.
+
+As per the Apache License 2.0 requirements:
+
+1. This THIRD_PARTY_NOTICES.txt file serves as the required NOTICE file,
+   acknowledging the inclusion of Apache HTTP Server components.
+
+2. The complete Apache License 2.0 text is provided in LICENSES/Apache-2.0.txt.
+
+3. All copyright notices from the original Apache HTTP Server project are
+   preserved and acknowledged.
+
+================================================================================
+PySide6 (Qt for Python)
+================================================================================
+
+This software uses PySide6 for the graphical user interface.
+
+Project:    PySide6 (Qt for Python)
+Website:    https://www.qt.io/qt-for-python
+License:    LGPL v3 / GPL v2 / Commercial
+Copyright:  The Qt Company
+
+-------------------------------------------------------------------------------
+
+For questions about licensing or third-party components, please refer to the 
+original project documentation and license files.
+
+Last updated: 2024
